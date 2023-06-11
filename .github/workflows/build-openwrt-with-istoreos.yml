@@ -163,10 +163,10 @@ on:
 env:
   REPO_URL: https://github.com/Mas-Er/istoreoswrt
   REPO_BRANCH: main
-  FEEDS_CONF: config-openwrt/openwrt-master/feeds.conf.default
-  CONFIG_FILE: config-openwrt/openwrt-master/config
-  DIY_P1_SH: config-openwrt/openwrt-master/diy-part1.sh
-  DIY_P2_SH: config-openwrt/openwrt-master/diy-part2.sh
+  FEEDS_CONF: config-openwrt/istoreos/feeds.conf.default
+  CONFIG_FILE: config-openwrt/istoreos/config
+  DIY_P1_SH: config-openwrt/istoreos/diy-part1.sh
+  DIY_P2_SH: config-openwrt/istoreos/diy-part2.sh
   TZ: America/New_York
 
 jobs:
