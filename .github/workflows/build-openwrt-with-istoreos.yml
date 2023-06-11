@@ -4,7 +4,7 @@
 # Source code repository: https://github.com/openwrt/openwrt / Branch: master
 #=====================================================================================
 
-name: Build OpenWrt with official
+name: Build OpenWrt with istoreos
 
 on:
   repository_dispatch:
